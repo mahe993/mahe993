@@ -1,6 +1,16 @@
 Hi 👋 My name is Ma He
 ======================
 
+Full stack web developer
+------------------------
+
+I've been learning to code for a year now and I am really enjoying it. I love tackling logical issues and coding is my perfect choice of escapism. If you have any feedback at all for me please feel free to reach out!
+
+*   🌍  I'm based in Singapore
+*   ✉️  You can contact me at [qmahe@live.com](mailto:qmahe@live.com)
+*   🚀  I'm currently working on [Capstone project](http://abc)
+*   🧠  I'm learning TypeScript/Mocha/Chai
+
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -15,3 +25,11 @@ Hi 👋 My name is Ma He
 <a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
 </p>
                     
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/mahe993" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/quekmahe" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
