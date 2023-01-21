@@ -1,7 +1,7 @@
 Hi 👋 My name is Ma He
 ======================
 
-Full stack web developer
+Full stack developer
 ------------------------
 
 I've been learning to code for a year now and I am really enjoying it. I love tackling logical issues and coding is my perfect choice of escapism. If you have any feedback at all for me please feel free to reach out!
@@ -9,7 +9,7 @@ I've been learning to code for a year now and I am really enjoying it. I love ta
 *   🌍  I'm based in Singapore
 *   ✉️  You can contact me at [qmahe@live.com](mailto:qmahe@live.com)
 <!-- *   🚀  I'm currently working on [Capstone project](http://abc) -->
-*   🧠  I'm learning TypeScript/Mocha/Chai
+*   🧠  I'm learning TypeScript/Jest
 
 ### Skills 
 <p align="left">
