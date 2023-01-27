@@ -9,7 +9,7 @@ I've been learning to code for a year now and I am really enjoying it. I love ta
 *   🌍  I'm based in Singapore
 *   ✉️  You can contact me at [qmahe@live.com](mailto:qmahe@live.com)
 <!-- *   🚀  I'm currently working on [Capstone project](http://abc) -->
-*   🧠  I'm learning TypeScript/Jest
+*   🧠  I'm learning Python/Jest
 
 ### Skills 
 <p align="left">
