@@ -1,15 +1,15 @@
 Hi 👋 My name is Ma He
 ======================
 
-Full stack developer
+Full Stack Engineer
 ------------------------
 
-I've been learning to code for a year now and I am really enjoying it. I love tackling logical issues and coding is my perfect choice of escapism. If you have any feedback at all for me please feel free to reach out!
+I love tackling logical issues and coding is my perfect choice of escapism. If you have any feedback at all for me please feel free to reach out!
 
 *   🌍  I'm based in Singapore
 *   ✉️  You can contact me at [qmahe@live.com](mailto:qmahe@live.com)
-<!-- *   🚀  I'm currently working on [Capstone project](http://abc) -->
-*   🧠  I'm learning Python/Jest
+*   🚀  I'm currently working as a full stack engineer
+*   🧠  I'm learning Python
 
 ### Skills 
 <p align="left">
