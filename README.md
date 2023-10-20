@@ -9,7 +9,7 @@ I love tackling logical issues and coding is my perfect choice of escapism. If y
 *   🌍  I'm based in Singapore
 *   ✉️  You can contact me at [qmahe@live.com](mailto:qmahe@live.com)
 *   🚀  I'm currently working as a full stack engineer
-*   🧠  I'm learning Python
+*   🧠  I'm learning Golang
 
 ### Skills
 
